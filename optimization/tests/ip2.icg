@@ -1,0 +1,7 @@
+a = 10
+b = a
+c = 100 + a
+t0 = b
+b = 11
+print b
+print t0

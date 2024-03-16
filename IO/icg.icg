@@ -1,0 +1,11 @@
+int c
+c = 2
+int a
+int b
+main:
+int a
+t1 = a
+t2 = a + 1
+a = t2
+t3 = minus t1
+next :
